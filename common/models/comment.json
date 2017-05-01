@@ -53,7 +53,7 @@
       "principalType": "ROLE",
       "principalId": "admin",
       "permission": "ALLOW",
-      "property": "reply"
+      "property": "__create__replies"
     },
     {
       "accessType": "WRITE",
